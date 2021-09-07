@@ -1,0 +1,23 @@
+h1 {
+    color:green;
+    font-size: 30px;
+    font-family: Arial;
+    margin-left: 300px;
+    
+}
+
+h2 {
+    color:red;
+    font-size: 50px;
+    font-family: Arial;
+    margin-left: 150px;
+}
+
+*{
+    margin-top: auto;
+    
+}
+
+div{
+    margin-left: 200px;
+}
